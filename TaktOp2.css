@@ -1,0 +1,85 @@
+body{
+
+background-color: rgb(255, 255, 255);
+
+font-family: arial, sans-serif;
+
+margin: 40px;
+margin-block-end: 0%;
+
+}
+
+.etiqueta{
+
+    background-color: #FFEB3B;
+
+    color:black;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    padding: 3px;
+
+    width: fit-content;
+
+    border: 2px solid black;
+
+    border-radius: 5px;
+
+    margin-top: 10px;
+
+
+    
+}
+
+
+
+a:hover{
+
+text-decoration: underline;
+
+}
+
+l{
+
+
+    color: rgba(179, 0, 0, 0.621);
+
+}
+
+
+.mover-direita {
+  position: absolute;  
+  top: 0;              
+  right: 0;            
+  margin: 40px;
+}
+
+
+
+
+  .sinopse {
+    width: 45%; /* ou por exemplo: 700px */
+    margin: left;/* centraliza a caixa */
+    font-size: 16px;
+    line-height: 1.3;
+    text-align: justify;
+    
+        
+  }
+
+  .sinopse h4 {
+    margin-bottom: 20px;
+  }
+
+
+  
+
+
+
+
+
+
+
+
